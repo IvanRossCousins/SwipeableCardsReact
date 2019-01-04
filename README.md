@@ -1,2 +1,0 @@
-# SwipeableCardsReact
-Created with CodeSandbox
